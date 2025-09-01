@@ -1,5 +1,5 @@
 # Classification with Random Forest – NASA AI Course
-
+link for teachable machine: https://teachablemachine.withgoogle.com/models/MBc1YSaD4/
 This repository contains a simple demonstration of using the **Random Forest Classifier** with **scikit-learn** as part of the AI & Machine Learning for Space Apps course.
 
 ## Overview
